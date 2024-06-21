@@ -1,0 +1,57 @@
+.logo{
+    text-align: center;
+    margin-top: 20px;
+}
+.one{
+    text-align: center;
+    font-size: 3rem;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+.three{
+    font-size: 2rem;
+    margin: 40px;
+    margin-left: 350px;
+    padding: 20px;
+    border-top: 3px solid #000000;
+    border-bottom: 1px solid #000000;
+    text-align: center;
+    width: 700px;
+}
+.five{
+    display: inline;
+    margin: 15px;
+}
+.six{
+    display: inline;
+    margin: 15px;
+}
+.seven{
+    display: inline;
+    margin: 15px;
+}    
+.eight{
+    display: inline;
+    margin: 15px;
+}
+.four{
+    display: inline;
+    margin: 15px;
+    color: #ff0000;
+}
+.images{
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 2rem;
+    margin-left: 400px;
+    margin-right: 400px;
+}
